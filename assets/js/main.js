@@ -73,7 +73,7 @@ var countries = {
     zoom: 6
   },
   
-  'ir': {
+  'ie': {
     center: {lat: 53.1, lng: -7.7},
     zoom: 6
   },
@@ -93,12 +93,12 @@ var countries = {
     zoom: 6
   },
   
-  'mo': {
+  'ma': {
     center: {lat: 32.4, lng: -6.0},
     zoom: 6
   },
   
-  'sl': {
+  'lk': {
     center: {lat: 7.6 , lng: 80.7},
     zoom: 6
   },
@@ -108,12 +108,12 @@ var countries = {
     zoom: 6
   },
   
-  'tl': {
+  'th': {
     center: {lat: 15.1, lng: 101.0},
     zoom: 6
   },
   
-  'vt': {
+  'vn': {
     center: {lat: 14.3, lng: 108.3},
     zoom: 6
   }
