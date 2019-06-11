@@ -48,7 +48,7 @@ Users may then add these results to an itinerary. They may then continue to edit
 
 #### User Goals
 
-The central target audience for this page is people planning a trip with an interest in history, art and outdoor activities, travelling alone or as a group.
+The central target audience for this page are people planning a trip with an interest in history, art and outdoor activities, travelling alone or as a group.
 
 User goals are:
 - use the planner section to select a city to visit, stay and dine at with ease;
@@ -66,7 +66,7 @@ I aimed to design a site that captured the idea of escapism while developing sit
 
 As a visitor to routeRep I want:
 
-1. to select a city and gather all the information I need for a successful trip. That means finding places to visit, stay and eat.
+1. to select a city and gather all the information I need for a successful trip. That means finding places to visit, stay and dine.
 2. additionally, I want to keep track of my choices using a list.
 
 ### Design Choices
@@ -75,16 +75,16 @@ I intended to capture a sense of escapism and adventure with the design of the s
 
 **Fonts**
 
-- The font Righteous was chosen for its dynamic appearence and modern, agile feel to make headers stand out on the page. 
-- The font Cabin was chosen because it complimented the Righteous font. The clean design was perfect for legibility while retaining the same modern and agile feel as the Righteous font.
+- The font ```Righteous``` was chosen for its dynamic appearence and modern, agile feel to make headers stand out on the page. 
+- The font ```Cabin``` was chosen because it complimented the Righteous font. The clean design was perfect for legibility while retaining the same modern and agile feel as the ```Righteous``` font.
 
 **Icons**
 
-- The icons used for the visit, stay and dine buttons in the planner for chosen for their simplicity to help convey the purpose of each button easier. The bed for the stay button and the knife and fork for the dine button are self-explanatory. An arch was used with the visit button to help convey the idea of history or impressive places to visit. 
+- The icons used for the visit, stay and dine buttons in the planner were chosen for their simplicity to help convey the purpose of each button easier. The bed for the stay button and the knife and fork for the dine button are self-explanatory. An arch was used with the visit button to help convey the idea of history or impressive places to visit. 
 
 **Colours**
 
-- There are three main colours used in the design of the app. Blue(```#bce7f6```) to represent clear skies and the sea; yellow(```#f6d9bc```) to represent sunsine and purple(```#e7bcf6```) to compliment the other two colours. Violet rather than ```#e7bcf6``` was chosen for the logo because of its greater vibrancy.
+- There are three main colours used in the design of the app - blue(```#bce7f6```) to represent clear skies and the sea; yellow(```#f6d9bc```) to represent sunsine; and purple(```#e7bcf6```) to compliment the other two colours. Violet rather than ```#e7bcf6``` was chosen for the logo because of its greater vibrancy.
 
 **Styling**
 
@@ -118,7 +118,7 @@ This [wireframe](https://github.com/stiofanEimeid/routeRep2.0/blob/master/assets
 
 ### Existing Features
 
-The app uses the Google Maps and Google Places API to provide search results about accommodation, places of interest and places to eat. Each individual result may be added to a list below the map so user's can keep track of the places they wish to visit, stay or dine.
+The app uses the Google Maps and Google Places API to provide search results about accommodation, places of interest and places to eat. Each individual result may be added to a list below the map so users can keep track of the places they wish to visit, stay or dine.
 
 
 ### Features left to implement 
@@ -198,7 +198,7 @@ To cut ties with this repository, type ```git remote rm origin``` into the termi
 ### Code
 
 - The SVG mouse found at the top of the site was initially found on page one, entry no. 3 of this [css animations page](https://www.creativebloq.com/inspiration/css-animation-examples)
-which displayed code this codepen: [SVG mouse](https://codepen.io/matchboxhero/pen/gGdJYo "SVG mouse"). Minor changes were made in relation to positioning on the page.
+which displayed code from this codepen: [SVG mouse](https://codepen.io/matchboxhero/pen/gGdJYo "SVG mouse"). Minor changes were made in relation to positioning on the page.
 
 - The planning section’s map functionality was modelled after the code contained in the [Google Maps API documentation](https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-hotelsearch), 
 specifically an example about how to search for hotels by selecting a country and a city. It was modified to include searches for places of interest and places to dine. Changes were also made to allow users to push results to a list. 
@@ -208,13 +208,13 @@ specifically an example about how to search for hotels by selecting a country an
 
 - The triangle divs used to create lens effects were generated using this [triangle generator site](http://apps.eky.hk/css-triangle-generator/) before changing the size, colour and opacity. 
 
-- The GIF demonstrating how to use the planner was shot with the capture screen feature of Quicktime and converted to GIF format using this site, [ezgif.com](https://ezgif.com/).
+- The GIF demonstrating how to use the planner was shot with the capture screen feature of QuickTime and converted to GIF format using this site, [ezgif.com](https://ezgif.com/).
 
 - The site's favicon was generated using [favicon-generator.org](https://www.favicon-generator.org/).
 
-- Text gradient code was found at [css-tricks](https://css-tricks.com/snippets/css/gradient-text/).
+- The text gradient code was found at [css-tricks](https://css-tricks.com/snippets/css/gradient-text/).
 
-- Smooth scroll functionality found here [abeautifulsite](https://www.abeautifulsite.net/smoothly-scroll-to-an-element-without-a-jquery-plugin-2).
+- Smooth scroll functionality was found at [abeautifulsite](https://www.abeautifulsite.net/smoothly-scroll-to-an-element-without-a-jquery-plugin-2).
 
 - Map styles, [Pale Dawn](https://snazzymaps.com/style/1/pale-dawn), are by Adam Krogh.
 
