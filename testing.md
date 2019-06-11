@@ -39,7 +39,7 @@ displayed markers on places of interest and places to eat on the map when clicke
  
 The app asks users to choose a country and then enter the name of a city in that country. The map responds to each request, panning to the country and then to the city. The user then chooses from one of three options what they’d like to search for in the city, someplace to visit, someplace to stay, or someplace to dine. Markers are dropped into the map and the corresponding search results are displaced in a table alongside the map. Hovering over the markers causes a small text box to pop up providing some more information about the target. 
  
-The dropdown menu offers the user the choice between twenty-four suggested countries across five continents. However, if the user wishes to choose a city located outside of those featured in the dropdown menu, they may choose the ```all``` option from the same menu. They may now search for any city in the world. 
+The dropdown menu offers the user the choice between twenty-four suggested countries across five continents. However, if the user wishes to choose a city located outside of those featured in the dropdown menu, they may choose the ```Other``` option from the same menu. They may now search for any city in the world. 
 
 When the user types into the city search box, suggestions correspond to cities in that location.
 
