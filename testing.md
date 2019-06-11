@@ -34,16 +34,16 @@ The following section goes through each of the user stories from the UX section 
     
 The Google Places API documentation provided an example of code that allowed users to find a hotel in a selected city. After choosing a country from a dropdown menu, the map would pan to that country. When the user entered the name of a city into the search box the map would pan to that city and markers would drop on the map, indicating hotels in the chosen city.
 I modified the code so that when the user selected a country or a city, markers would not immediately appear indicating hotels. Instead, I took the code that identified hotels and added it to an event listener. This function would only be triggered when the user clicked the button the event listener targeted, labelled "stay". I repeated this process for buttons labelled "visit" and "dine", that
-displayed markers on places of interest and places to eat on the map when clicked. The API identifies places to put markers based on the ```types``` property in the search object. The ```types``` ```lodging``` and ```restaurant``` were conventiently available already, but there was no equivalent for places of interest or tourist attractions. Instead, I included multiple types that fell under this umbrella, including 
+displayed markers on places of interest and places to eat on the map when clicked. The API identifies places to put markers based on the ```types``` property in the search object. The ```types``` ```lodging``` and ```restaurant``` were conveniently available already, but there was no equivalent for places of interest or tourist attractions. Instead, I included multiple types that fell under this umbrella, including 
 ```museum```, ```park```, ```zoo```, ```art_gallery```, ```church``` to provide satisfactory results.
  
 The app asks users to choose a country and then enter the name of a city in that country. The map responds to each request, panning to the country and then to the city. The user then chooses from one of three options what they’d like to search for in the city, someplace to dine, someplace to visit, or someplace to stay. Markers are dropped into the map and the corresponding search results are displaced in a table alongside the map. Hovering over the markers causes a small text box to pop up providing some more information about the target. 
  
-The dropdown menu offers the user the choice between twenty-four suggested countries across five continents. However, if the user wishes to choose a city located outside of those featured in the dropdown menu, they may choose the ```other``` option from the same menu. They may now search for any city in the world. 
+The dropdown menu offers the user the choice between twenty-four suggested countries across five continents. However, if the user wishes to choose a city located outside of those featured in the dropdown menu, they may choose the ```all``` option from the same menu. They may now search for any city in the world. 
 
 When the user types into the city search box, suggestions correspond to cities in that location.
 If the user clicks the visit, stay or dine button without first selecting a country and/or city, Montluçon, France will act as the default city.
-Alternating between different options to visit, stay and dine lays down relevant markers but also erases markers from the previous choice. Nevertheless, by adding lcoations to the itinerary users can keep track of their choices.
+Alternating between different options to visit, stay and dine lays down relevant markers but also erases markers from the previous choice. Nevertheless, by adding locations to the itinerary users can keep track of their choices.
 Changing city does not affect items contained in the itinerary although users may find it difficult to differentiate between choices relating to different cities. 
 Markers dropped into the map correspond to the correct location and the small corresponding text-box that appears when a user clicks on a map marker is also accurate.
 
@@ -62,7 +62,7 @@ Below is a detailed account of all the manual testing that has been done to conf
 
 ### Testing undertaken on desktop and laptop
 
-All steps on desktop were repeated in browsers: Firefox, Chrome and Internet Explorer and on two different desktop screen sizes.
+All steps on desktop were repeated in browsers: Chrome, Firefox, Safari, and Internet Explorer and on two different desktop screen sizes.
 
 1. Responsiveness
     - The results table sits alongside the map on larger devices as PC and laptop. 

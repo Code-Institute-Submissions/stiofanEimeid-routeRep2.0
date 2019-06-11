@@ -88,7 +88,7 @@ var countries = {
     zoom: 6
   },
   
-  'tk': {
+  'tr': {
     center: {lat: 39.1, lng: 35.2},
     zoom: 6
   },
