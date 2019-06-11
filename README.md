@@ -183,6 +183,8 @@ git clone https://github.com/USERNAME/REPOSITORY
 
 Further reading and troubleshooting on how to clone a repository from GitHub may be found [here](https://help.github.com/en/articles/cloning-a-repository).
 
+To cut ties with this repository, type ```git remote rm origin``` into the terminal of your editor. In order to verify the terminal has been removed, type ```git remote -v``` to determine which remotes are still connected. 
+
 ## Credits
 
 ### Content 
