@@ -68,7 +68,7 @@ var countries = {
     zoom: 5
   },
   
-  'ni': {
+  'ng': {
     center: {lat: 9.6, lng: 8.1},
     zoom: 6
   },
