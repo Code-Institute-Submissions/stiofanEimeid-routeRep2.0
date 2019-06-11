@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://stiofaneimeid.github.io/travel-app/" target="_blank"><img src="https://github.com/stiofanEimeid/travel-app/blob/master/assets/images/routeRepLogofinal.png" alt="routeRep Logo"/></a>
+  <a href="https://stiofaneimeid.github.io/routeRep2.0/" target="_blank"><img src="https://github.com/stiofanEimeid/routeRep2.0/blob/master/assets/images/routeRepLogofinal.png" alt="routeRep Logo"/></a>
 </h1>
 
 <div align="center"> 
@@ -103,7 +103,7 @@ I intended to capture a sense of escapism and adventure with the design of the s
 
 ### Wireframes
 
-This [wireframe](https://github.com/stiofanEimeid/travel-app/blob/master/assets/wireframes/TA-wireframe.jpeg) illustrates early conceptions of the site. This [second wireframe](https://github.com/stiofanEimeid/travel-app/blob/master/assets/wireframes/routeRepfinal.jpeg) gives an impression of the final look of the site.
+This [wireframe](https://github.com/stiofanEimeid/routeRep2.0/blob/master/assets/wireframes/TA-wireframe.jpeg) illustrates early conceptions of the site. This [second wireframe](https://github.com/stiofanEimeid/routeRep2.0/blob/master/assets/wireframes/routeRepfinal.jpeg) gives an impression of the final look of the site.
 
 
 ## Features
@@ -112,7 +112,7 @@ This [wireframe](https://github.com/stiofanEimeid/travel-app/blob/master/assets/
 
 <div align="center"> 
 
-![demo gif](https://github.com/stiofanEimeid/travel-app/blob/master/assets/images/routeRepDemoLarge.gif)
+![demo gif](https://github.com/stiofanEimeid/routeRep2.0/blob/master/assets/images/routeRepDemoLarge.gif)
 
 </div>
 
@@ -160,7 +160,7 @@ In the future, I would like users to have the ability to save their composed iti
 
 ## Testing
 
-Information on the testing process may be found in the [testing.md file](https://github.com/stiofanEimeid/travel-app/blob/master/testing.md). 
+Information on the testing process may be found in the [testing.md file](https://github.com/stiofanEimeid/routeRep2.0/blob/master/testing.md). 
 
 ## Deployment
 
@@ -170,7 +170,7 @@ The site was built using Cloud's IDE, added, commited and pushed to GitHub using
 
 In order to run a repository locally, the repository must be cloned. To clone the repository
 :
-1. Follow the link to the [routeRep GitHub repository](https://github.com/stiofanEimeid/travel-app).
+1. Follow the link to the [routeRep GitHub repository](https://github.com/stiofanEimeid/routeRep2.0).
 2. Under the repository name, click "Clone or download".
 3. In the Clone with HTTPs section, copy the clone URL for the repository. 
 4. In your preferred IDE, open the terminal.
